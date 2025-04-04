@@ -160,4 +160,4 @@ int lex() {
     cout << "Next token is: " << nextToken
         << ", Next lexeme is " << lexeme << endl;
     return nextToken;  // Return the token type
-}
+} 
